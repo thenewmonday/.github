@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### We're building a career change marketplace, for people that are 'stuck'.
+
+Join the waitlist and we’ll notify you when we go live, become a host, or start looking for new career experiences.
+
+### > [newmonday.site](https://newmonday.site) <
+
 <!--
 
 **Here are some ideas to get you started:**
